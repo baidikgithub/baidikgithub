@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/baidik-mazumdar/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@baidikmazumdar" target="_blank">
@@ -19,10 +19,10 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=baidikgithub.baidikgithub&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=baidikgithub.baidikgithub&" />
 </div>
 
-###
+---
 
 <h1 align="center">Hi 👋, I'm Baidik Mazumdar</h1>
 
@@ -34,49 +34,46 @@
 
 ---
 
-### 🌱 Currently Learning
-- React, TypeScript & Advanced Frontend Techniques  
-- Collaborating on **Go Programming Projects**
+### 👨🏻‍💻 About Me
+
+- 🔭 I’m currently working on exciting full-stack projects  
+- 🌱 Learning MERN Stack deeply + exploring backend with Go  
+- 👯 Open to collaboration on real-world dev projects  
+- 💬 Ask me about anything (but not Math 😅)  
+- 🤔 Trying to crack the world of Competitive Programming  
+- ⚡ Fun Fact: I spend a *bit too much* time gaming 🎮  
+- 🧠 Life Hack: Build, break, learn, repeat 💡  
 
 ---
 
 ### 🤝 Let's Collaborate
-I'm open to:
-- Go-based backend projects  
-- Frontend development using React  
-- Open source contributions and hackathons
+I'm interested in:
+- Go-based backend systems  
+- React and TypeScript UI development  
+- Contributing to open-source & hackathons  
 
 ---
 
-### 📫 How to reach me:
-📧 **baidikmazumdar789@gmail.com**
-
----
-
-<h2 align="left">🛠️ Technologies & Tools</h2>
+### 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-prettier-an-opinionated-code-formatter-with-support-for-javascript-logo-color-tal-revivo.png" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -98,9 +95,24 @@ I'm open to:
 ---
 
 ### 💡 Fun Fact
-> I love building UIs, automating boring tasks, and solving bugs like puzzles 🧩.
+> I love building beautiful UIs, automating repetitive stuff, and treating bugs like little boss fights 🧩.
 
 ---
 
 ### ⚡ Let's Connect!
-Let’s share ideas, collaborate on projects, or just have a nerdy convo about tech 🚀
+
+- 🌐 Website: _coming soon_  
+- 📧 Email: *your.email@example.com*  
+- 💼 LinkedIn: *[Add your LinkedIn URL]*  
+- 📝 Blog: *coming soon*  
+- 🐦 Twitter: [@baidikmazumdar](https://twitter.com/baidikmazumdar)  
+- 📺 YouTube: [baidikmazumdar](https://www.youtube.com/@baidikmazumdar)
+
+---
+
+### ☕ Support Me
+If you like what I do, consider buying me a coffee:
+
+<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+</a>
