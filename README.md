@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/baidikmazumdar-mca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/baidikmazumdar-mca" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/baidikmazumdar-mca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/baidikmazumdar-mca" height="30" width="40" /></a> -->
 <a href="https://dribbble.com/https://dribbble.com/baidik-mazumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/baidik-mazumdar" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/baidikmazumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/baidikmazumdar" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/https://leetcode.com/u/baidikmazumdar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/baidikmazumdar/" height="30" width="40" /></a> -->
@@ -26,9 +26,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/baidikmazuz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/baidikmazuz" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baidikgithub&show_icons=true&locale=en&layout=compact" alt="baidikgithub" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baidikgithub&show_icons=true&locale=en" alt="baidikgithub" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baidikgithub&" alt="baidikgithub" /></p>
