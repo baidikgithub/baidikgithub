@@ -18,6 +18,7 @@
 <a href="https://www.behance.net/https://www.behance.net/baidikmazumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/baidikmazumdar" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/https://leetcode.com/u/baidikmazumdar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/baidikmazumdar/" height="30" width="40" /></a> -->
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/baidikmazcbcr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/baidikmazcbcr/" height="30" width="40" /></a>
+<a href="https://medium.com/@baidikmazumdar789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@baidikmazumdar789" height="30" width="40" /></a>
 <a href="https://discord.gg/baidikmazumdar_23864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="baidikmazumdar_23864" height="30" width="40" /></a>
 </p>
 
