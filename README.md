@@ -27,7 +27,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"
+      style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 8px; box-sizing: border-box; transition: transform 0.3s ease, box-shadow 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.2)';this.style.boxShadow='0 4px 20px rgba(0,0,0,0.1)';"
+      onmouseout="this.style.transform='scale(1)';this.style.boxShadow='none';" />
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
