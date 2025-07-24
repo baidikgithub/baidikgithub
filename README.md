@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baidikgithub" alt="baidikgithub" /></a> </p>
 
-- 🌱 I’m currently learning **full-stack development with a focus on real-world applications.**
+- 🌱 I'm currently learning **full-stack development with a focus on real-world applications.**
 
-- 🤝 I’m looking for help with **looking for help with backend logic & architecture.**
+- 🤝 I'm looking for help with **looking for help with backend logic & architecture.**
 
 - 📫 How to reach me **baidikmazumdar789@gmail.com**
 
