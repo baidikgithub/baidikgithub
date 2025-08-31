@@ -112,6 +112,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzdev09&show_icons=true&locale=en&layout=compact" alt="itzzdev09" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzdev09&show_icons=true&locale=en" alt="itzzdev09" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzzdev09&" alt="itzzdev09" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/baidikmazuz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/baidikmazuz" /></a></p><br><br>
