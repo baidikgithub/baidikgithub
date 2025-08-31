@@ -1,3 +1,4 @@
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Baidik Mazumdar</h1>
 <h3 align="center">Web dev enthusiast | Focused on core concepts over trends | MCA @ Sikkim Manipal | Always building & learning</h3>
 
