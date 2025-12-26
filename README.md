@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **baidikmazumdar789@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/baidikmazumdar-mca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/baidikmazumdar-mca" height="30" width="40" /></a> -->
 <a href="https://dribbble.com/https://dribbble.com/baidik-mazumdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/baidik-mazumdar" height="30" width="40" /></a>
@@ -20,7 +20,7 @@
 <!-- <a href="https://www.leetcode.com/https://leetcode.com/u/baidikmazumdar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/baidikmazumdar/" height="30" width="40" /></a> -->
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/baidikmazcbcr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/baidikmazcbcr/" height="30" width="40" /></a>
 <a href="https://discord.gg/baidikmazumdar_23864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="baidikmazumdar_23864" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 15px;"> -->
