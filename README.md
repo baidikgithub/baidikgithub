@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baidikgithub&label=Profile%20views&color=0e75b6&style=flat" alt="baidikgithub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baidikgithub" alt="baidikgithub" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baidikgithub" alt="baidikgithub" /></a> </p> -->
 
 <!-- GitHub Streak Stats Card -->
 <p align="left">
@@ -19,3 +19,6 @@
 
 - 📫 How to reach me **baidikmazumdar789@gmail.com**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/baidikgithub/baidikgithub/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
+</p>
