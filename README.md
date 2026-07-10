@@ -17,6 +17,8 @@
 
 - 🤝 I'm looking for help with **looking for help with backend logic & architecture.**
 
+- 📝 I regularly write articles on Medium [https://medium.com/@baidikmazumdar789](https://medium.com/@baidikmazumdar789)
+
 - 📫 How to reach me **baidikmazumdar789@gmail.com**
 
 <picture>
